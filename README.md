@@ -1,4 +1,4 @@
-# iscacheable
+# IsCacheable
 
 iscacheable is simple tool to determine if a URL is cacheable or not. It
 both prints whether the URL is cacheable to stdout and exits with 0 or 1
