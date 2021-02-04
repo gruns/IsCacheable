@@ -1,6 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#
+# iscacheable - A simple tool to determine if a URL is cacheable or not.
+#
+# Ansgar Grunseid
+# grunseid.com
+# grunseid@gmail.com
+#
+# License: MIT
+#
+
 import sys
 
 from cachecontrol import CacheControl
