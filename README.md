@@ -14,7 +14,7 @@ work. `iscacheable` will then:
 
   1. Send an HTTP `HEAD` request to the URL.
   2. Fetch the response headers.
-  3. Test if the response headers are cacheable.
+  3. Determine if the response headers are cacheable.
   4. Print `Cacheable.` if the URL is cacheable, `Not cacheable.` otherwise.
   5. Exit with exit code 0 if URL is cacheable, 1 otherwise.
 
