@@ -51,8 +51,7 @@ setup(
     url=meta['__url__'],
     description=meta['__description__'],
     long_description=(
-        'Information and documentation can be found at ' +
-        meta['__url__']),
+        'Information and documentation can be found at ' + meta['__url__']),
     platforms=['any'],
     packages=find_packages(),
     include_package_data=True,
